@@ -11,7 +11,9 @@ Following are the links that we will refer in the training
 | Killercoda  | https://killercoda.com/rkalluru |  |
 
 Image Name : RHEL-9-DevOps-Practice
+
 Username : ec2-user 
+
 Password: DevOps321
 
 <img width="617" alt="image" src="https://github.com/raghudevopsb80/.github/assets/29029753/cbef0062-5f1a-44b1-9578-980f69ac3036">

@@ -9,3 +9,6 @@ Following are the links that we will refer in the training
 | AWS Account Signup Link  | https://portal.aws.amazon.com/billing/signup#/start/email |  |
 | AWS Login Page  | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |  |
 | Killercoda  | https://killercoda.com/rkalluru |  |
+
+
+<img width="617" alt="image" src="https://github.com/raghudevopsb80/.github/assets/29029753/cbef0062-5f1a-44b1-9578-980f69ac3036">

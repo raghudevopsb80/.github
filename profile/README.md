@@ -18,3 +18,6 @@ Username : ec2-user
 Password: DevOps321
 
 <img width="617" alt="image" src="https://github.com/raghudevopsb80/.github/assets/29029753/cbef0062-5f1a-44b1-9578-980f69ac3036">
+
+
+<img width="358" alt="image" src="https://github.com/raghudevopsb80/.github/assets/29029753/07431102-80ff-4d22-8584-ca05e4246766">

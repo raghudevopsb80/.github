@@ -2,6 +2,7 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
+| Project Documentation | https://learndevopsonline.github.io/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview | |
 | Create EC2 | https://lucky-hide-390.notion.site/How-to-Create-a-EC2-Server-ad7683b625ed46da80d8a16072cc0e96 | |
 | Putty Download | https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe | |
 | Miro Link | https://miro.com/app/board/uXjVK7EWdtY=/?share_link_id=409831890089 | |

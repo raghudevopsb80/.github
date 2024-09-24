@@ -2,6 +2,7 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
+| Reference Note & Code | https://github.com/r-devops/ref-note-and-code | Here you will find the reference code blocks for all the tools and some notes |
 | Project Documentation | https://learndevopsonline.github.io/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview | |
 | Create EC2 | https://lucky-hide-390.notion.site/How-to-Create-a-EC2-Server-ad7683b625ed46da80d8a16072cc0e96 | |
 | Putty Download | https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe | |
